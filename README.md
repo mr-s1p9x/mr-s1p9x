@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mr-s1p9x
 - 👀 I’m interested in programming and social engineering
-- 🌱 I’m currently learning swift & linux
-- 💞️ I’m looking to collaborate on any project for experience
+- I’m looking to collaborate on any project for experience
 - 📫 How to reach me:
 
 - root@s1pex:~$ sudo apt update && apt upgrade -y 
